@@ -22,7 +22,7 @@ num,manufacturer,manufacturerUrl,modelName,productUrl,note,Rsensitivity,Wsensiti
 0x6001,NXP Semiconductors ,http://www.nxp.com/#/homepage,G2,,,0,0,0j,0j,0j
 0x6003,NXP Semiconductors ,http://www.nxp.com/#/homepage,G2 XM,,,0,0,0j,0j,0j
 0x6004,NXP Semiconductors ,http://www.nxp.com/#/homepage,G2 XL,,,0,0,0j,0j,0j
-0x6806,NXP Semiconductors ,https://www.nxp.com/docs/en/data-sheet/SL3S1203_1213.pdf,G2 iL,,-27,-27,25-j237j,23-j224,21-j216
+0x6806,NXP Semiconductors ,https://www.nxp.com/docs/en/data-sheet/SL3S1203_1213.pdf,G2 iL,,,-27,-27,25-j237j,23-j224,21-j216
 0x6807,NXP Semiconductors ,https://www.nxp.com/docs/en/data-sheet/SL3S1203_1213.pdf,G2 iL+,,-27,-27,25-j237j,23-j224,21-j216
 0x680a,NXP Semiconductors ,http://www.nxp.com/#/homepage,G2 iM,,,0,0,0j,0j,0j
 0x680b,NXP Semiconductors ,http://www.nxp.com/#/homepage,G2 iM+,,,0,0,0j,0j,0j
