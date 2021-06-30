@@ -1,0 +1,189 @@
+num,manufacturer,manufacturerUrl,modelName,productUrl,note,Rsensitivity,Wsensitivity,Z866,Z915,Z953
+0x1170,Impinj,http://www.impinj.com/,Monza R6-P,https://support.impinj.com/hc/en-us/articles/204793258-Monza-R6-P-Product-Brief-Datasheet,,0,0,0j,0j,0j
+0x110c,Impinj,http://www.impinj.com/,Monza 4E,https://support.impinj.com/hc/en-us/articles/202756908-Monza-4-RFID-Tag-Chip-Datasheet,,0,0,0j,0j,0j
+0x1105,Impinj,http://www.impinj.com/,Monza 4QT,https://support.impinj.com/hc/en-us/articles/202756908-Monza-4-RFID-Tag-Chip-Datasheet,,0,0,0j,0j,0j
+0x1160,Impinj,http://www.impinj.com/,Monza R6,https://support.impinj.com/hc/en-us/articles/202765328-Monza-R6-Product-Brief-Datasheet,,0,0,0j,0j,0j
+0x1130,Impinj,http://www.impinj.com/,Monza 5,https://support.impinj.com/hc/en-us/articles/202756948-Monza-5-Tag-Chip-Datasheet,,0,0,0j,0j,0j
+0x1191,Impinj,http://www.impinj.com/,M730,https://support.impinj.com/hc/en-us/articles/360010797539-Impinj-M730-M750-Product-Brief-Datasheet,,0,0,0j,0j,0j
+0x1190,Impinj,http://www.impinj.com/,M750,https://support.impinj.com/hc/en-us/articles/360010797539-Impinj-M730-M750-Product-Brief-Datasheet,,0,0,0j,0j,0j
+0x1171,Impinj,http://www.impinj.com/,Monza R6-A,https://support.impinj.com/hc/en-us/articles/115001376564-Monza-R6-A-Product-Brief-Datasheet,"Monza R6-A and Monza R6-B share the same tag model number. To distinguish the two tag chip varieties with the TID, the user must refer to the wafer mask revision value in Bits 30h-32h. Monza R6-A has a wafer mask revision value of 000b while Monza R6-B has a wafer mask revision value of 001b.",0,0,0j,0j,0j
+0x1171,Impinj,http://www.impinj.com/,Monza R6-B,https://support.impinj.com/hc/en-us/articles/360000690579-Monza-R6-B-Product-Brief-Datasheet,"Monza R6-A and Monza R6-B share the same tag model number. To distinguish the two tag chip varieties with the TID, the user must refer to the wafer mask revision value in Bits 30h-32h. Monza R6-A has a wafer mask revision value of 000b while Monza R6-B has a wafer mask revision value of 001b.",0,0,0j,0j,0j
+0x1114,Impinj,http://www.impinj.com/,Monza 4i,https://support.impinj.com/hc/en-us/articles/202756908-Monza-4-RFID-Tag-Chip-Datasheet,,0,0,0j,0j,0j
+0x1100,Impinj,http://www.impinj.com/,Monza 4D,https://support.impinj.com/hc/en-us/articles/202756908-Monza-4-RFID-Tag-Chip-Datasheet,,0,0,0j,0j,0j
+0x1150,Impinj,http://www.impinj.com/,Monza X-8K,https://support.impinj.com/hc/en-us/articles/202756868-Monza-X-8K-Dura-Product-Brief-Datasheet,,0,0,0j,0j,0j
+0x1140,Impinj,http://www.impinj.com/,Monza X-2K,https://support.impinj.com/hc/en-us/articles/202756848-Monza-X-2K-Dura-Product-Brief-Datasheet,,0,0,0j,0j,0j
+0x2000,Texas Instruments ,http://www.ti.com/,,,,0,0,0j,0j,0j
+0x3411,Alien Technology,http://www.alientechnology.com/,Higgs 2,,,0,0,0j,0j,0j
+0x3412,Alien Technology,http://www.alientechnology.com/,Higgs 3,,,0,0,0j,0j,0j
+0x3414,Alien Technology,http://www.alientechnology.com/,Higgs 4,,,0,0,0j,0j,0j
+0x3811,Alien Technology,http://www.alientechnology.com/,Higgs EC,,,0,0,0j,0j,0j
+0x4000,Intelleflex ,http://www.intelleflex.com/,,,,0,0,0j,0j,0j
+0x5000,Atmel ,http://www.atmel.com/,,,,0,0,0j,0j,0j
+0x6001,NXP Semiconductors ,http://www.nxp.com/#/homepage,G2,,,0,0,0j,0j,0j
+0x6003,NXP Semiconductors ,http://www.nxp.com/#/homepage,G2 XM,,,0,0,0j,0j,0j
+0x6004,NXP Semiconductors ,http://www.nxp.com/#/homepage,G2 XL,,,0,0,0j,0j,0j
+0x6806,NXP Semiconductors ,https://www.nxp.com/docs/en/data-sheet/SL3S1203_1213.pdf,G2 iL,,-27,-27,25-j237j,23-j224,21-j216
+0x6807,NXP Semiconductors ,https://www.nxp.com/docs/en/data-sheet/SL3S1203_1213.pdf,G2 iL+,,-27,-27,25-j237j,23-j224,21-j216
+0x680a,NXP Semiconductors ,http://www.nxp.com/#/homepage,G2 iM,,,0,0,0j,0j,0j
+0x680b,NXP Semiconductors ,http://www.nxp.com/#/homepage,G2 iM+,,,0,0,0j,0j,0j
+0x6810,NXP Semiconductors ,http://www.nxp.com/#/homepage,UCODE 7,,,0,0,0j,0j,0j
+0x6811,NXP Semiconductors ,http://www.nxp.com/#/homepage,UCODE 7m,,,0,0,0j,0j,0j
+0x6812,NXP Semiconductors ,http://www.nxp.com/#/homepage,UCODE 7xm,,,0,0,0j,0j,0j
+0x6d12,NXP Semiconductors ,http://www.nxp.com/#/homepage,UCODE 7xm,,,0,0,0j,0j,0j
+0x6d92,NXP Semiconductors ,http://www.nxp.com/#/homepage,UCODE 7xm+,,,0,0,0j,0j,0j
+0x6c12,NXP Semiconductors ,http://www.nxp.com/#/homepage,UCODE DNA TRACK,,,0,0,0j,0j,0j
+0x6f92,NXP Semiconductors ,http://www.nxp.com/#/homepage,UCODE DNA,,,0,0,0j,0j,0j
+0x6894,NXP Semiconductors ,http://www.nxp.com/#/homepage,UCODE 8,https://www.nxp.com/products/rfid-nfc/ucode-uhf/ucode-8-8m:SL3S1205-15?&fsrch=1&sr=2&pageNum=1,,0,0,0j,0j,0j
+0x6994,NXP Semiconductors ,http://www.nxp.com/#/homepage,UCODE8m,https://www.nxp.com/products/rfid-nfc/ucode-uhf/ucode-8-8m:SL3S1205-15?&fsrch=1&sr=2&pageNum=1,,0,0,0j,0j,0j
+0x7240,ST Microelectronics ,http://www.st.com/,XRAG2,,,0,0,0j,0j,0j
+0x8000,EP Microelectronics ,http://web-micfe.web.cern.ch/web-micfe/,,,,0,0,0j,0j,0j
+0x9000,Motorola (formerly Symbol Technologies),http://www.zebra.com/us/en.html,,,,0,0,0j,0j,0j
+0xa000,Sentech Snd Bhd ,http://www.senstech.com.my/,,,,0,0,0j,0j,0j
+0xb000,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4324,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4324 ,,0,0,0j,0j,0j
+0xb001,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4324,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4324 ,,0,0,0j,0j,0j
+0xb002,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4324,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4324 ,,0,0,0j,0j,0j
+0xb003,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4324,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4324 ,,0,0,0j,0j,0j
+0xb040,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4325,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4325 ,,0,0,0j,0j,0j
+0xb041,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4325,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4325 ,,0,0,0j,0j,0j
+0xb042,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4325,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4325 ,,0,0,0j,0j,0j
+0xb043,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4325,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4325 ,,0,0,0j,0j,0j
+0xb044,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4325,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4325 ,,0,0,0j,0j,0j
+0xb045,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4325,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4325 ,,0,0,0j,0j,0j
+0xb046,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4325,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4325 ,,0,0,0j,0j,0j
+0xb047,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4325,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4325 ,,0,0,0j,0j,0j
+0xb048,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4325,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4325 ,,0,0,0j,0j,0j
+0xb049,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4325,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4325 ,,0,0,0j,0j,0j
+0xb04a,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4325,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4325 ,,0,0,0j,0j,0j
+0xb04b,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4325,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4325 ,,0,0,0j,0j,0j
+0xb04c,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4325,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4325 ,,0,0,0j,0j,0j
+0xb04d,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4325,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4325 ,,0,0,0j,0j,0j
+0xb04e,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4325,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4325 ,,0,0,0j,0j,0j
+0xb04f,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4325,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4325 ,,0,0,0j,0j,0j
+0xb080,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4124,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4124 ,,-19,-8,25-276j,22-261j,20-251j
+0xb081,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4124,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4124 ,,-19,-8,25-276j,22-261j,20-251j
+0xb082,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4124,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4124 ,,-19,-8,25-276j,22-261j,20-251j
+0xb083,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4124,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4124 ,,-19,-8,25-276j,22-261j,20-251j
+0xb084,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4124,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4124 ,,-19,-8,25-276j,22-261j,20-251j
+0xb085,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4124,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4124 ,,-19,-8,25-276j,22-261j,20-251j
+0xb086,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4124,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4124 ,,-19,-8,25-276j,22-261j,20-251j
+0xb087,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4124,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4124 ,,-19,-8,25-276j,22-261j,20-251j
+0xb088,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4124,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4124 ,,-19,-8,25-276j,22-261j,20-251j
+0xb089,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4124,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4124 ,,-19,-8,25-276j,22-261j,20-251j
+0xb08a,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4124,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4124 ,,-19,-8,25-276j,22-261j,20-251j
+0xb08b,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4124,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4124 ,,-19,-8,25-276j,22-261j,20-251j
+0xb08c,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4124,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4124 ,,-19,-8,25-276j,22-261j,20-251j
+0xb08d,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4124,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4124 ,,-19,-8,25-276j,22-261j,20-251j
+0xb08e,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4124,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4124 ,,-19,-8,25-276j,22-261j,20-251j
+0xb08f,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4124,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4124 ,,-19,-8,25-276j,22-261j,20-251j
+0xb0a0,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4423,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo ,,0,0,0j,0j,0j
+0xb0a1,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4423,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo ,,0,0,0j,0j,0j
+0xb0a2,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4423,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo ,,0,0,0j,0j,0j
+0xb0a3,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4423,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo ,,0,0,0j,0j,0j
+0xb0a4,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4423,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo ,,0,0,0j,0j,0j
+0xb0a5,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4423,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo ,,0,0,0j,0j,0j
+0xb0a6,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4423,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo ,,0,0,0j,0j,0j
+0xb0a7,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4423,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo ,,0,0,0j,0j,0j
+0xb0c0,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4126,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4126 ,,0,0,0j,0j,0j
+0xb0c1,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4126,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4126 ,,0,0,0j,0j,0j
+0xb0c2,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4126,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4126 ,,0,0,0j,0j,0j
+0xb0c3,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4126,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4126 ,,0,0,0j,0j,0j
+0xb0c4,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4126,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4126 ,,0,0,0j,0j,0j
+0xb0c5,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4126,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4126 ,,0,0,0j,0j,0j
+0xb0c6,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4126,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4126 ,,0,0,0j,0j,0j
+0xb0c7,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4126,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em4126 ,,0,0,0j,0j,0j
+0xb100,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4227,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em-aura-c ,,0,0,0j,0j,0j
+0xb101,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4227,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em-aura-c ,,0,0,0j,0j,0j
+0xb102,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4227,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em-aura-c ,,0,0,0j,0j,0j
+0xb103,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4227,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em-aura-c ,,0,0,0j,0j,0j
+0xb104,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4227,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em-aura-c ,,0,0,0j,0j,0j
+0xb105,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4227,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em-aura-c ,,0,0,0j,0j,0j
+0xb106,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4227,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em-aura-c ,,0,0,0j,0j,0j
+0xb107,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4227,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em-aura-c ,,0,0,0j,0j,0j
+0xb110,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4425,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo-v ,,0,0,0j,0j,0j
+0xb111,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4425,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo-v ,,0,0,0j,0j,0j
+0xb112,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4425,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo-v ,,0,0,0j,0j,0j
+0xb113,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4425,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo-v ,,0,0,0j,0j,0j
+0xb114,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4425,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo-v ,,0,0,0j,0j,0j
+0xb115,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4425,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo-v ,,0,0,0j,0j,0j
+0xb116,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4425,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo-v ,,0,0,0j,0j,0j
+0xb117,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4425,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo-v ,,0,0,0j,0j,0j
+0xb118,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4425,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo-v ,,0,0,0j,0j,0j
+0xb119,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4425,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo-v ,,0,0,0j,0j,0j
+0xb11a,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4425,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo-v ,,0,0,0j,0j,0j
+0xb11b,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4425,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo-v ,,0,0,0j,0j,0j
+0xb11c,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4425,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo-v ,,0,0,0j,0j,0j
+0xb11d,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4425,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo-v ,,0,0,0j,0j,0j
+0xb11e,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4425,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo-v ,,0,0,0j,0j,0j
+0xb11f,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4425,https://www.emmicroelectronic.com/product/nfc-high-frequency-ics/em-echo-v ,,0,0,0j,0j,0j
+0xb120,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4152,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em-aura-sense,,0,0,0j,0j,0j
+0xb121,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4152,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em-aura-sense,,0,0,0j,0j,0j
+0xb122,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4152,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em-aura-sense ,,0,0,0j,0j,0j
+0xb123,EM Microelectronic ,http://www.emmicroelectronic.com/,EM4152,https://www.emmicroelectronic.com/product/epc-and-uhf-ics/em-aura-sense ,,0,0,0j,0j,0j
+0xc000,Renesas Technology Corp.,http://america.renesas.com/,,,,0,0,0j,0j,0j
+0xd000,Mstar,http://www.mstarsemi.com/,,,,0,0,0j,0j,0j
+0xe000,Tyco International,http://www.tyco.com/,,,,0,0,0j,0j,0j
+0xf000,Quanray Electronics,http://www.quanray.com/en/home.asp,,,,0,0,0j,0j,0j
+0x10000,Fujitsu,http://www.fujitsu.com/,,,,0,0,0j,0j,0j
+0x10000,LSIS,http://eng.lsis.biz/,,,,0,0,0j,0j,0j
+0x10000,CAEN RFID srl,http://www.caenrfid.it/,,,,0,0,0j,0j,0j
+0x10000,Productivity Engineering Gesellschaft fuer IC Design mbH,http://www.pe-gmbh.com/,,,,0,0,0j,0j,0j
+0x10000,Federal Electric Corp.,http://www.fec-corp.com/en/index.php,,,,0,0,0j,0j,0j
+0x10000,ON Semiconductor,http://www.onsemi.com/,,,,0,0,0j,0j,0j
+0x10000,Ramtron,http://www.ramtron.com/,,,,0,0,0j,0j,0j
+0x10000,Tego,http://www.tegoinc.com/,,,,0,0,0j,0j,0j
+0x10000,Ceitec S.A.,http://www.ceitec-sa.com/en/home/,,,,0,0,0j,0j,0j
+0x10000,CPA Wernher von Braun,http://www.vonbraunlabs.com.br/en/,,,,0,0,0j,0j,0j
+0x10000,TransCore,http://www.transcore.com/,,,,0,0,0j,0j,0j
+0x10000,Nationz,http://www.nationz.com.cn/,,,,0,0,0j,0j,0j
+0x10000,Invengo,http://www.invengo.com/,,,,0,0,0j,0j,0j
+0x10000,Kiloway,http://www.kiloway.com/,,,,0,0,0j,0j,0j
+0x10000,Longjing Microelectronics Co. Ltd.,http://www.szlongjing.com/,,,,0,0,0j,0j,0j
+0x10000,Chipus Microelectronics,http://www.chipus-ip.com/,,,,0,0,0j,0j,0j
+0x20000,ORIDAO,http://www.oridao.com/,,,,0,0,0j,0j,0j
+0x20000,Maintag,http://www.maintag.com/,,,,0,0,0j,0j,0j
+0x20000,Yangzhou Daoyuan Microelectronics Co. Ltd,http://www.daoyuanmicro.com/,,,,0,0,0j,0j,0j
+0x20000,Gate Elektronik,http://www.gateelektronik.com.tr/,,,,0,0,0j,0j,0j
+0x20000,"RFMicron, Inc.",http://www.rfmicron.com/,,,,0,0,0j,0j,0j
+0x20000,RST-Invent LLC,http://www.rst-invent.com/,,,,0,0,0j,0j,0j
+0x20000,Crystone Technology,http://www.crystonetech.com/,,,,0,0,0j,0j,0j
+0x20000,Shanghai Fudan Microelectronics Group ,http://www.fmsh.com/eng/,,,,0,0,0j,0j,0j
+0x20000,Farsens,http://www.farsens.com/,,,,0,0,0j,0j,0j
+0x20000,Giesecke & Devrient GmbH,http://www.gi-de.com/,,,,0,0,0j,0j,0j
+0x20000,AWID,http://www.awid.com/,,,,0,0,0j,0j,0j
+0x20000,Unitec Semicondutores S/A,http://www.unitecgroup.net/,,,,0,0,0j,0j,0j
+0x20000,Q-Free ASA,https://www.q-free.com/,,,,0,0,0j,0j,0j
+0x20000,Valid S.A.,http://www.valid.com/,,,,0,0,0j,0j,0j
+0x20000,Fraunhofer IPMS,http://www.ipms.fraunhofer.de/,,,,0,0,0j,0j,0j
+0x20000,ams AG,http://www.ams.com/,,,,0,0,0j,0j,0j
+0x30000,Angstrem JSC,http://www.angstrem.ru/,,,,0,0,0j,0j,0j
+0x30000,Honeywell,http://www.honeywell.com/,IT70,,,0,0,0j,0j,0j
+0x30001,Honeywell,http://www.honeywell.com/,IT70,,,0,0,0j,0j,0j
+0x30002,Honeywell,http://www.honeywell.com/,IT70,,,0,0,0j,0j,0j
+0x30003,Honeywell,http://www.honeywell.com/,IT70,,,0,0,0j,0j,0j
+0x30004,Honeywell,http://www.honeywell.com/,IT70,,,0,0,0j,0j,0j
+0x30005,Honeywell,http://www.honeywell.com/,IT70,,,0,0,0j,0j,0j
+0x30006,Honeywell,http://www.honeywell.com/,IT70,,,0,0,0j,0j,0j
+0x30007,Honeywell,http://www.honeywell.com/,IT70,,,0,0,0j,0j,0j
+0x30008,Honeywell,http://www.honeywell.com/,IT70,,,0,0,0j,0j,0j
+0x30009,Honeywell,http://www.honeywell.com/,IT70,,,0,0,0j,0j,0j
+0x3000a,Honeywell,http://www.honeywell.com/,IT70,,,0,0,0j,0j,0j
+0x3000b,Honeywell,http://www.honeywell.com/,IT70,,,0,0,0j,0j,0j
+0x3000c,Honeywell,http://www.honeywell.com/,IT70,,,0,0,0j,0j,0j
+0x3000d,Honeywell,http://www.honeywell.com/,IT70,,,0,0,0j,0j,0j
+0x3000e,Honeywell,http://www.honeywell.com/,IT70,,,0,0,0j,0j,0j
+0x3000f,Honeywell,http://www.honeywell.com/,IT70,,,0,0,0j,0j,0j
+0x30000,Huada Semiconductor Co. Ltd (HDSC),http://www.hdsc.com.cn/,,,,0,0,0j,0j,0j
+0x30000,"LAPIS Semiconductor Co., Ltd.",http://www.lapis-semi.com/en/,,,,0,0,0j,0j,0j
+0x30000,PJSC Mikron,http://mikron.ru/en/,,,,0,0,0j,0j,0j
+0x30000,"Hangzhou Landa Microelectronics Co., Ltd.",http://www.landsemi.com/ ,,,,0,0,0j,0j,0j
+0x30000,"Nanjing NARI Micro-Electronic Technology Co., Ltd.",http://www.sgepri.sgcc.com.cn/ ,,,,0,0,0j,0j,0j
+0x30000,"Southwest Integrated Circuit design Co., Ltd.",http://www.swid.com.cn ,,,,0,0,0j,0j,0j
+0x30000,Silictec,http://www.silictec.com/,,,,0,0,0j,0j,0j
+0x30000,Nation RFID,http://www.nationrfid.com/,,,,0,0,0j,0j,0j
+0x30000,Asygn,http://www.asygn.com/,,,,0,0,0j,0j,0j
+0x30000,"Suzhou HCTech Technology Co., Ltd.",http://www.hctechgroup.com/,,,,0,0,0j,0j,0j
+0x30000,AXEM Technology,https://www.axemtec.com,,,,0,0,0j,0j,0j
+0x30000,"Guangzhou Syschip Technology Co., Ltd",http://www.syschip.com,,,,0,0,0j,0j,0j
+0x30000,MaxWave Microelectronics Ltd.,https://www.maxwavemicro.com,,,,0,0,0j,0j,0j
+0x30000,"IDRO Co., Ltd",www.idro.co.kr,,,,0,0,0j,0j,0j
+0x40000,"Shanxi Zhongshuo Microelectronics Co., Ltd.",http://www.zsmicro.com.cn,,,,0,0,0j,0j,0j
